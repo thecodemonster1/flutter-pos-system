@@ -1,0 +1,12 @@
+name: packages
+description: "Local bluetooth stub packages for POS System"
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: ">=3.11.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter

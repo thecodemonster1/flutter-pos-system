@@ -32,9 +32,7 @@ dependencies:
   shared_preferences: ^2.5.3
   http: ^1.5.0
   packages:
-    git:
-      url: https://github.com/evan361425/flutter-pos-packages
-      ref: 2026.05.03-04
+    path: packages
 
   # google services
   googleapis: ^14.0.0
